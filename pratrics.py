@@ -40,3 +40,5 @@
 
 b='JAFFAR'
 print(b.isupper())
+import matplotlib
+import pandas as pd
